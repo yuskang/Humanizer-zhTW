@@ -8,7 +8,7 @@
 
 ```bash
 mkdir -p ~/.claude/skills
-git clone https://github.com/blader/humanizer-zhtw.git ~/.claude/skills/humanizer-zhtw
+git clone https://github.com/yuskang/humanizer-zhtw.git ~/.claude/skills/humanizer-zhtw
 ```
 
 ### 手動安裝／更新（僅 skill 檔案）
